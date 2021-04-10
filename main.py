@@ -6,49 +6,57 @@ import math
 
 power = 18
 N = 3000
-cmap = 'magma'
+cmap = 'hot'
 
 
 
 def run():
 
     coef = np.zeros((N, N))
-    for h in range(5, power+1):
-        for  i in range(2**h):
+    
+    for  i in range(2**power):
 
-            k = bin(i)[2:]
-            k = k.zfill(power)
-            k = k.replace('0', '3')
-            k = np.polynomial.Polynomial([int(k[i])  - 2 for i in range(len(k))])
-            rootsOfK = k.roots()
+        k = bin(i)[2:]
+        k = k.zfill(power)
+        k = k.replace('0', '3')
+        k = np.polynomial.Polynomial([int(k[i])  - 2 for i in range(len(k))])
+        rootsOfK = k.roots()
 
-            for j in rootsOfK:
-                x = np.real( j ) * N/3 + N/2
-                y = np.imag( j ) * N/3 + N/2
-                if round(x)<N and round(x) > 0 and round(y) < N and round(y) > 0 and coef[round(x)][round(y)] < power:
-                    coef[round(x)][round(y)] += 1
+        for j in rootsOfK:
+            x = round(np.imag( j ) * N/3 + N/2)
+            y = round(np.real( j ) * N/3 + N/2)
+
+            if x < N and x > 0 and y < N and y > 0 and coef[x, y] < power:
+                coef[x, y] += 1
 
             #print(rootsOfK)
     
-    coef = np.rot90(coef)
-    np.save('coef_' +  str(N) + '_' + str(power) , coef)
+    #coef = np.rot90(coef)
 
-    '''
+    filenameArr = f'coef_N_{N}_p_{power}'
+    np.save(filenameArr, coef)
+
+    ####
+
     for i in range(N):
         for j in range(N):
-            if coef[i][j] < 2:
-                coef[i][j] = 0
-    '''
-
+            if coef[i, j]:
+                coef[i, j] += 700 
+    ####
 
     plt.figure(num = None, figsize=(6, 6), dpi=300)
 
     plt.axis('off')
 
-    plot = plt.imshow(coef, cmap = cmap)
+    plot = plt.imshow(coef, cmap = cmap, interpolation='lanczos' )
 
-    #plot = plt.imshow(coef, cmap = cmap, norm=colors.LogNorm(vmin=1, vmax=255))
-    plt.savefig(str(N) + 'A' + str(i) + '_' + cmap + str(N) + '.png', bbox_inches = 'tight')
+    ####
+
+    filenameImage = f'N_{N}_cmap_{cmap}_p_{power}.png'
+
+    plt.savefig(filenameImage, bbox_inches = 'tight')
+
+    ####
 
     plt.show()
     plt.close()
