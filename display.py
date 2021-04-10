@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 
 def run():
-    coef = np.load('coef_4000_18.npy')
-    N = 4000
-    cmap ='plasma'
+    coef = np.load('coef_N_3000_p_18.npy')
+    N = 3000
+    cmap ='hot'
 
     print('done load')
 
