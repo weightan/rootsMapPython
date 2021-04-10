@@ -16,3 +16,7 @@
 ![exemple](https://i.imgur.com/U5aAoer.png)
 ![exemple](https://i.imgur.com/Jg87gil.png)
 ![exemple](https://i.imgur.com/KjY41Ah.png)
+
+with 4 coefficients:
+
+![exemple](https://i.imgur.com/qqArssw.png)
