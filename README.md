@@ -8,6 +8,10 @@
  
  https://math.stackexchange.com/questions/47030/why-does-this-distribution-of-polynomial-roots-resemble-a-collection-of-affine-i
  
+ https://www.e-periodica.ch/digbib/view?pid=ens-001:1993:39::181#566
+ 
+ https://mathworld.wolfram.com/PolynomialRoots.html
+ 
  
 ![exemple](https://i.imgur.com/IXH75LV.png)
 ![exemple](https://i.imgur.com/myk55YG.png)
