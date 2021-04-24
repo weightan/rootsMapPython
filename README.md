@@ -10,6 +10,8 @@
  
  https://math.ucr.edu/home/baez/roots/
  
+ https://johncarlosbaez.wordpress.com/2011/12/11/the-beauty-of-roots/
+ 
  https://math.stackexchange.com/questions/47030/why-does-this-distribution-of-polynomial-roots-resemble-a-collection-of-affine-i
  
  https://www.e-periodica.ch/digbib/view?pid=ens-001:1993:39::181#566
