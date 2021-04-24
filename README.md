@@ -4,6 +4,8 @@
  
  https://en.wikipedia.org/wiki/Littlewood_polynomial
  
+ https://math.ucr.edu/home/baez/roots/beauty.pdf
+ 
  https://wiegreffe.info/home/fractals-from-complex-roots-of-polynomials
  
  https://math.ucr.edu/home/baez/roots/
