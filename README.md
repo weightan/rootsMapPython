@@ -14,6 +14,7 @@
  
  https://core.ac.uk/download/pdf/328813079.pdf
  
+ https://arxiv.org/pdf/1110.1612.pdf
  
 ![exemple](https://i.imgur.com/IXH75LV.png)
 ![exemple](https://i.imgur.com/myk55YG.png)
