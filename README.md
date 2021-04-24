@@ -2,6 +2,8 @@
  
  Source:
  
+ https://en.wikipedia.org/wiki/Littlewood_polynomial
+ 
  https://wiegreffe.info/home/fractals-from-complex-roots-of-polynomials
  
  https://math.ucr.edu/home/baez/roots/
