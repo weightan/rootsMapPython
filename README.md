@@ -4,6 +4,8 @@
  
  https://en.wikipedia.org/wiki/Littlewood_polynomial
  
+ https://fse.studenttheses.ub.rug.nl/12857/1/Scriptie__new_.pdf
+ 
  http://www.gregegan.net/SCIENCE/Littlewood/LittlewoodVideos.html
  
  http://www.gregegan.net/SCIENCE/Littlewood/Littlewood.html
