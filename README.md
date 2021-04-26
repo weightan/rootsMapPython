@@ -34,6 +34,8 @@
  
  http://jdc.math.uwo.ca/roots/
  
+ video: https://youtu.be/2K-E6dt8mZM
+ 
 ![exemple](https://i.imgur.com/IXH75LV.png)
 ![exemple](https://i.imgur.com/myk55YG.png)
 ![exemple](https://i.imgur.com/zbLSz5d.png)
