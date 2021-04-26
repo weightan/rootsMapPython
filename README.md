@@ -10,6 +10,8 @@
  
  http://www.gregegan.net/SCIENCE/Littlewood/LittlewoodVideos.html
  
+ https://www.uwo.ca/smss/events/imgpdf/Rob-Corless---slides.pdf
+ 
  http://www.gregegan.net/SCIENCE/Littlewood/Littlewood.html
  
  https://math.ucr.edu/home/baez/roots/beauty.pdf
