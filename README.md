@@ -6,6 +6,8 @@
  
  https://fse.studenttheses.ub.rug.nl/12857/1/Scriptie__new_.pdf
  
+ https://www.reddit.com/r/math/comments/cje7nm/visualizing_subseries_of_complex_valued_functions/
+ 
  https://fse.studenttheses.ub.rug.nl/14350/1/main.pdf
  
  http://www.gregegan.net/SCIENCE/Littlewood/LittlewoodVideos.html
