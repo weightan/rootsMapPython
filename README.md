@@ -1,4 +1,4 @@
-# Fractals made from complex roots of all possible polinomials of certan degree (12 - 24) and small set of complex coefficients (2 or 3)
+# Fractals made from complex roots of all possible polynomials of certain  degree (12 - 24) and small set of complex coefficients (2 or 3)
  
  Source:
  
