@@ -38,6 +38,10 @@
  
  http://jdc.math.uwo.ca/roots/
  
+ https://golem.ph.utexas.edu/category/2009/12/this_weeks_finds_in_mathematic_46.html
+
+ https://github.com/evanberkowitz/littlewood
+ 
  video: https://youtu.be/2K-E6dt8mZM
  
 ![exemple](https://i.imgur.com/IXH75LV.png)
