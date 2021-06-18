@@ -42,6 +42,8 @@
 
  https://github.com/evanberkowitz/littlewood
  
+ https://github.com/Hasnep/littlewood-matlab
+ 
  video: https://youtu.be/2K-E6dt8mZM
  
 ![exemple](https://i.imgur.com/IXH75LV.png)
