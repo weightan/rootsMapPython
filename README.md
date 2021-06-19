@@ -3,7 +3,7 @@
  Source:
  
  https://en.wikipedia.org/wiki/Littlewood_polynomial
- 
+
  https://fse.studenttheses.ub.rug.nl/12857/1/Scriptie__new_.pdf
  
  https://www.reddit.com/r/math/comments/cje7nm/visualizing_subseries_of_complex_valued_functions/
