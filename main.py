@@ -216,14 +216,6 @@ def sqrt(k):
 if __name__ == '__main__':
     #print(90/(np.angle(complex(1, 0.005))*57.2958) )
     #run_animation_pow()
-    #run(18)
-    a = []
-
-    for y in tqdm( range(0, 100000) ):
-        x = ( math.log( (7**y )+2) / math.log(3))
-        #print(x%1)
-        if  x%1 < 0.0001:
-            a.append([y, x])
-
-    print(a)
+    run(0)
+    
     
